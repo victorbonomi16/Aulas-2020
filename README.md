@@ -1,2 +1,11 @@
-# Aulas-2020
-Exemplos de cada aula
+![](logosatc.png)
+# Curso de Informatica
+ - *Linguagem de Programacao*;
+ - *2020*; 
+ - *Python*. 
+  
+  
+         
+  
+
+  
